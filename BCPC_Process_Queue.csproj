@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="App.config.sample" />
     <None Include="Connected Services\RightNowService\BCPC_Process_Queue.RightNowService.APIAccessResponseHeaderType.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
